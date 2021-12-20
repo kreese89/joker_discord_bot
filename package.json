@@ -6,8 +6,13 @@
   "author": "kreese89",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "lodash.sample": "^4.2.1"
   },
   "devDependencies": {
     "eslint": "^8.5.0",
