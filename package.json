@@ -1,0 +1,19 @@
+{
+  "name": "joker_discord_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kreese89/joker_discord_bot.git",
+  "author": "kreese89",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "prettier": "^2.5.1"
+  }
+}
