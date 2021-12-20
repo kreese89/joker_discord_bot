@@ -52,7 +52,7 @@ module.exports = [
   'I’ve been using it as a journal, but also as a joke diary, if I have any thoughts or frustrations. I think I told you, I’m pursuing a career in standup comedy.',
   'Nobody panics when things go ‘according to plan,’ even if the plan is horrifying.',
   'No matter the situation, always wear a smile.',
-  'Do you know how I got these scars?',
+  'Do you want to know how I got these scars?',
   "All it takes is one bad day to reduce the sanest man alive to lunacy. That's how far the world is from where I am. Just one bad day.",
   "Fool you once, shame on you. Fool you twice, Joker's Trick...",
 ];
